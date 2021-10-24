@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Carnage.exe#0492",
         "version": "0.1",
-        "name": "Among Us"
+        "name": "Among Us",
+        "updater": "https:\/\/raw.githubusercontent.com\/001Carnage001\/AliuCord-Themes\/main\/Among%20Us%20Theme.json"
     },
     "background": {
         "overlay_alpha": 0,
