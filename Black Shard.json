@@ -1,35 +1,27 @@
 {
     "manifest": {
         "author": "Carnage.exe#0492",
-        "version": "0.1",
-        "updater": "https:\/\/raw.githubusercontent.com\/001Carnage001\/AliuCord-Themes\/main\/Blue%20Shard.json",
+        "version": "0.2",
+        "updater": "https:\/\/raw.githubusercontent.com\/001Carnage001\/AliuCord-Themes\/main\/Black%20Shard.json",
         "name": "Black Shard"
     },
     "background": {
         "overlay_alpha": 0,
-        "url": "https:\/\/cdn.discordapp.com\/attachments\/900020694354649108\/902879545491873802\/7edefaf6-f6b3-4ee2-b176-e96f82fcfc53.gif"
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/868419532992172073\/902890841931149312\/7edefaf6-f6b3-4ee2-b176-e96f82fcfc53.gif"
     },
-    "fonts": {
-        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/900020694354649108\/901805466240311326\/Minecraft_Font.ttf",
-        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/900020694354649108\/901805466240311326\/Minecraft_Font.ttf",
-        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/900020694354649108\/901805466240311326\/Minecraft_Font.ttf",
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/900020694354649108\/901805466240311326\/Minecraft_Font.ttf"
-    },
+    "fonts": {},
     "simple_colors": {
         "mention_highlight": 838926134,
         "accent": 975552601,
-        "background": 270909529,
+        "background": 2474073,
         "background_secondary": 65532
     },
     "colors": {
-        "primary_dark_200": -15042247,
-        "primary_dark_630": 622491961,
-        "primary_dark_300": -15042247,
-        "primary_dark_360": -15042247,
-        "brand_new_630": -15042247,
+        "primary_dark_630": 635895790,
+        "brand_new_630": -16711850,
         "uikit_btn_compound_color_selector_dark": -15042247,
         "uikit_btn_compound_color_selector_light": -16711850,
-        "uikit_btn_bg_color_selector_background_accent_dark": -15042247,
+        "uikit_btn_bg_color_selector_background_accent_dark": -16711850,
         "uikit_btn_bg_color_selector_background_accent_light": -14303143,
         "uikit_btn_bg_color_selector_brand": -14303143,
         "uikit_btn_bg_color_selector_secondary": -14303143,
@@ -37,28 +29,27 @@
         "uikit_btn_bg_color_selector_secondary_light": -16711850,
         "uikit_btn_bg_color_selector_white": -131587,
         "uikit_btn_outline_color_selector_brand": -14303143,
-        "uikit_settings_item_text_color_light": 1677786966,
-        "uikit_settings_item_text_color_dark": -15042247,
-        "link": -16515328,
-        "grey_unread": -15042247,
-        "primary_dark_400": -15042247
+        "link": -16711850,
+        "grey_unread": -16711853,
+        "primary_dark_400": -1638418
     },
     "drawable_tints": {
-        "ic_sidebar_pins_off_light_24dp": -14303143,
-        "ic_sidebar_notifications_off_dark_24dp": -14303143,
-        "ic_sidebar_pins_on_light_24dp": -14303143,
-        "ic_sidebar_notifications_on_light_24dp": -14303143,
-        "ic_sidebar_pins_on_dark_24dp": -15042247,
-        "ic_sidebar_pins_off_dark_24dp": -15042247,
-        "ic_sidebar_notifications_off_light_24dp": -14303143,
-        "ic_sidebar_notifications_on_dark_24dp": -15042247,
-        "drawable_overlay_channel_pressed_dark": -14787534,
-        "drawable_overlay_channel_pressed_light": -9836232,
-        "drawable_overlay_channels_selected_dark": 2116403289,
-        "drawable_overlay_channels_selected_light": 2097217366,
-        "ic_unread_white_9dp": -16711850,
-        "drawable_bg_voice_user_overlay": -16711852,
-        "ic_unread_white_9dp_horiz": -15042247,
-        "ic_status_idle_16dp": -16711850
+        "ic_sidebar_pins_off_light_24dp": -1443346,
+        "ic_sidebar_notifications_off_dark_24dp": -1443346,
+        "ic_sidebar_pins_on_light_24dp": -1443346,
+        "ic_sidebar_notifications_on_light_24dp": -1443346,
+        "ic_sidebar_pins_on_dark_24dp": -1510677,
+        "ic_sidebar_pins_off_dark_24dp": -1510677,
+        "ic_sidebar_notifications_off_light_24dp": -1443346,
+        "ic_sidebar_notifications_on_dark_24dp": -1510677,
+        "drawable_overlay_channel_pressed_dark": -1445909,
+        "drawable_overlay_channel_pressed_light": -983573,
+        "drawable_overlay_channels_selected_dark": 2129263086,
+        "drawable_overlay_channels_selected_light": 2112290798,
+        "ic_unread_white_9dp": -1638418,
+        "drawable_bg_voice_user_overlay": -1638418,
+        "ic_unread_white_9dp_horiz": -1510677,
+        "ic_status_idle_16dp": -1638418,
+        "ic_channel_text": -1644826
     }
 }
