@@ -1,0 +1,59 @@
+{
+    "manifest": {
+        "version": "1.2.5",
+        "author": "Carnage.exe#0492",
+        "name": "Greeny Alien"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/881219790012825620\/917071797705396254\/2644686.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "mention_highlight": 838918655,
+        "accent": -16711700,
+        "background": 973078528,
+        "background_secondary": 956301312
+    },
+    "colors": {
+        "primary_dark_200": -16711711,
+        "primary_dark_630": 623231065,
+        "primary_dark_300": -16711715,
+        "primary_dark_360": -16711694,
+        "uikit_btn_compound_color_selector_dark": -14303143,
+        "uikit_btn_compound_color_selector_light": -15532288,
+        "uikit_btn_bg_color_selector_background_accent_dark": -8110684,
+        "uikit_btn_bg_color_selector_background_accent_light": -2490290,
+        "uikit_btn_bg_color_selector_brand": -16711719,
+        "uikit_btn_bg_color_selector_secondary": -16711705,
+        "uikit_btn_bg_color_selector_secondary_dark": -5347328,
+        "uikit_btn_bg_color_selector_secondary_light": -65445,
+        "uikit_btn_bg_color_selector_white": -15635114,
+        "uikit_btn_outline_color_selector_brand": -16711850,
+        "uikit_settings_item_text_color_light": 1677786879,
+        "uikit_settings_item_text_color_dark": -16711719,
+        "link": -16711850,
+        "spotify": -16711707
+    },
+    "drawable_tints": {
+        "ic_sidebar_pins_off_light_24dp": -16711688,
+        "ic_sidebar_notifications_off_dark_24dp": -16712449,
+        "ic_sidebar_pins_on_light_24dp": -16711696,
+        "ic_sidebar_notifications_on_light_24dp": -16716545,
+        "ic_sidebar_pins_on_dark_24dp": -16711682,
+        "ic_sidebar_pins_off_dark_24dp": -16711702,
+        "ic_sidebar_notifications_off_light_24dp": -16711711,
+        "ic_sidebar_notifications_on_dark_24dp": -16711692,
+        "drawable_overlay_channel_pressed_dark": -16711690,
+        "drawable_overlay_channel_pressed_light": -16711690,
+        "drawable_overlay_channels_selected_dark": 2113994738,
+        "drawable_overlay_channels_selected_light": 2097217495,
+        "ic_mobile": -16711702,
+        "ic_account_spotify": -16711700,
+        "ic_status_online_16dp": -16711686,
+        "drawable_listitem_divider_left_padded": -16711743
+    },
+    "raws": {
+        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/912940522757296128\/917073750795636736\/Discord_Halloween_-_Instrumental.mp3"
+    }
+}
