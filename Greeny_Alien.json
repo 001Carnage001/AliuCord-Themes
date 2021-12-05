@@ -2,7 +2,8 @@
     "manifest": {
         "version": "1.2.5",
         "author": "Carnage.exe#0492",
-        "name": "Greeny Alien"
+        "name": "Greeny Alien",
+        "updater": "https:\/\/raw.githubusercontent.com\/001Carnage001\/AliuCord-Themes\/main\/Greeny_Alien.json"
     },
     "background": {
         "overlay_alpha": 0,
