@@ -1,0 +1,4 @@
+- 🖇️ This is a Repo For a Custom Discord client named "AliuCord" which is available on Androi!
+- 🤵🏽 I am a Theme Developer on the platform!
+- 📂 You can see the theme files above!
+- 📥 To use these themes Download the Aliucord app and install it through there!
